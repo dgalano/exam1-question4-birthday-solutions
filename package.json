@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "birthday-calculator": "^1.0.0",
     "get-zodiac-sign": "^1.0.3"
   }
 }
